@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Christ
+ 👋 Hi, I’m Christ
 
 I am a 24-year-old student studying computer science base in France, passionate about technology and science.
 
