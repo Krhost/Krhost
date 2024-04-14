@@ -1,6 +1,5 @@
- **Hey, I’m Christ** 👋
-
-I'm a 24-year-old studying computer science based in France, with a strong desire to share my work with you. I look forward to hearing from you ! 😄
+ **Hey**👋
+ I’m Christ , a 24-year-old studying computer science based in France, with a strong desire to share my work with you. I look forward to hearing from you ! 😄
 
 ## ⚙️ Skills
 
