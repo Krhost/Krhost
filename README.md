@@ -3,10 +3,10 @@
 
 ## ⚙️ Skills
 
-- **Programming Languages** : `Java`, `C`, `JavaScript`, `Python`
-- **Database Management Systems** : `MySQL`, `PostgreSQL`, `MongoDB`
-- **Version Control Tools** : `Git`
-- **Development Environments** : `Visual Studio Code`, `IntelliJ IDEA`, `Eclips`
+**Programming Languages** : `Java`, `C`, `JavaScript`, `Python`
+**Database Management Systems** : `MySQL`, `PostgreSQL`, `MongoDB`
+**Version Control Tools** : `Git`
+**Development Environments** : `Visual Studio Code`, `IntelliJ IDEA`, `Eclips`
 
 ## 🎯 Goals
 
