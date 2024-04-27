@@ -32,6 +32,11 @@
 ## 📬 Contact 
 
 📨 : christ.matsanganzoulou@gmail.com
+in DM on [Linkedin](https://www.linkedin.com/in/christ-matsanga-755a59303/)
+
+## 🔗 Link
+
+🔗 : [Linkedin](https://www.linkedin.com/in/christ-matsanga-755a59303/)
 
 
 
