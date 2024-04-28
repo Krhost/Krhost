@@ -31,13 +31,13 @@
   
 ## 📬 Contact 
 
-📨 : christ.matsanganzoulou@gmail.com
-
-In dm on [Linkedin](https://www.linkedin.com/in/christ-matsanga-755a59303/)
-
-## 🔗 Link
+* [Mail](christ.matsanganzoulou@gmail.com)
 
 * [Linkedin](https://www.linkedin.com/in/christ-matsanga-755a59303/)
+
+
+
+
 
 
 
