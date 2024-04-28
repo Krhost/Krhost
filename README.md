@@ -31,7 +31,7 @@
   
 ## 📬 Contact 
 
-* [Mail](christ.matsanganzoulou@gmail.com)
+* [Mail](mailto:christ.matsanganzoulou@gmail.com)
 
 * [Linkedin](https://www.linkedin.com/in/christ-matsanga-755a59303/)
 
