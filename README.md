@@ -10,9 +10,14 @@
 
 ## 🎯 Goals
 
-- pursue a career in tech
-- improve my skills as a developer
-- Bringing my ideas to life
+short and medium-term
+  * Make a Full Stack Developer Roadmap
+  * Improve My English
+  * Find a Professional Opportunity
+    
+over the long term
+  * for the time being pursue a career as a developer in tech, in industry  or finance/banking 
+  * Bringing my ideas to life
   
 ## 🎭 Hobbies
 
@@ -31,7 +36,7 @@
   
 ## 📬 Contact 
 
-* mail : [christ.matsanganzoulou@gmail.com](mailto:christ.matsanganzoulou@gmail.com)
+* Mail : [christ.matsanganzoulou@gmail.com](mailto:christ.matsanganzoulou@gmail.com)
 
 * Linkedin : [christ-matsanga](https://www.linkedin.com/in/christ-matsanga-755a59303/)
 
