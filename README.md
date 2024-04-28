@@ -10,12 +10,12 @@
 
 ## 🎯 Goals
 
-short and medium-term 🕒 :
+🕒 short and medium-term :
   * Make a Full Stack Developer Roadmap
   * Improve My English
   * Find a Professional Opportunity
     
-over the long term 🕰️ :
+🕰️ over the long term :
   * for the time being pursue a career as a developer in tech, in industry  or finance/banking 
   * Bringing my ideas to life
   
